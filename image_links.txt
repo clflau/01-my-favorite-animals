@@ -1,0 +1,9 @@
+cat: https://i.ytimg.com/vi/2fb-g_V-UT4/hqdefault.jpg
+
+dog: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkqjlTlgHS8zSQljh-5N8uXiWZyqb3DqXFGbE3TR88RGUetbnA
+
+mouse: https://www.askideas.com/media/48/Funny-Mouse-Meme-Why-Yes-I-Am-A-Bit-Stressed-Why-Do-You-Ask-Picture.jpg
+
+elephant: http://img.memecdn.com/elephant-got-mad-skillz_o_606758.jpg
+
+raptor: https://cdn.meme.am/instances/11397862.jpg
